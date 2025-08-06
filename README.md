@@ -23,7 +23,7 @@ I’m a self-taught full-stack web developer from Pakistan, building robust, pro
   - Version control, feature branching, clean commit history<br/><br/>
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 | Layer       | Tools & Technologies                                                                                                                                                          |
 |-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
