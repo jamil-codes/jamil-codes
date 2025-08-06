@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.gif" height="300" alt="Header"/>
+  <img src="header.gif" height="250" alt="Header"/>
 </p>
 
 # 👋 Hi, I’m **Jamil Ahmed** — _Jamil Codes_
