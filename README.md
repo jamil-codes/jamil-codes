@@ -2,7 +2,6 @@
 
 I’m a self-taught full-stack web developer from Pakistan, building robust, production-ready applications with **Django** on the backend and **React/Next.js** on the frontend. I focus on **lean progress**, **clean architecture**, and **delivering real value** — not chasing perfection.<br/><br/>
 
-
 ## 🚀 What I Do
 
 - **Backend Development**  
@@ -21,9 +20,6 @@ I’m a self-taught full-stack web developer from Pakistan, building robust, pro
   - Version control, feature branching, clean commit history<br/><br/>
 
 
-
-
----
 ## 🛠️ Tech Stack
 
 | Layer       | Tools & Technologies                                                                                                                                                          |
@@ -35,47 +31,38 @@ I’m a self-taught full-stack web developer from Pakistan, building robust, pro
 | **Database**| ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
 | **Others**  | ![REST](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge) |
 
-
-
----
+<br/>
 
 ## 🔍 Key Projects
 
-### 📘 [IBlog Django](https://github.com/jamil-codes/iblog)
+### 📘 [IBlog Django](https://github.com/jamil-codes/IBlog-Django)
 A modular, beginner-friendly Django blog template  
 - Categories, Posts, Tags, Admin Dashboard  
 - Markdown content, responsive UI  
-- Dockerized, GitHub Actions support
-
----
+- Dockerized, GitHub Actions support<br/><br/>
 
 ## 🎯 Current Focus
-
 - ✅ Mastering advanced Django features (Signals, Middleware, Admin Customization)  
-- ✅ Leveraging **Next.js 14+** features (app router, ISR, image optimization)  
+- ✅ Mastering **Next.js** 
 - ✅ Building full-stack open-source templates for real-world use  
-- ✅ Leveling up in DevOps (Docker, Kubernetes, CI/CD)  
-- ✅ Writing clean, scalable, production-grade code
-
----
+- ✅ Leveling up in DevOps (Docker, CI/CD)  
+- ✅ Writing clean, scalable, production-grade code<br/><br/>
 
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=jamil-codes&theme=radical&hide_border=false)  
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamil-codes&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
+<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jamilcodes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamilcodes@gmail.com)
+<br/><br/>
 
----
+## 💰 You can help me by Donating<br/>
+If you’ve found my projects helpful or just want to support my journey as a developer, you can buy me a coffee on Ko-fi. Every bit of support helps me stay focused and continue building open-source tools for the dev community.<br/><br/>
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jamilcodes) 
+
+<br/>
 
 > _“Perfection is the enemy of progress. Build, learn, iterate, and ship.”_  
 > — **Jamil Codes**
-
-<!-- Visit Counter -->
-[![](https://visitcount.itsvg.in/api?id=jamil-codes&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating<br/>
-If you’ve found my projects helpful or just want to support my journey as a developer, you can buy me a coffee on Ko-fi. Every bit of support helps me stay focused and continue building open-source tools for the dev community.<br/>
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jamilcodes) 
