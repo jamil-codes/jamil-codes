@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.gif" width="50%" alt="Header"/>
+</p>
+
 # 👋 Hi, I’m **Jamil Ahmed** — _Jamil Codes_
 
 I’m a self-taught full-stack web developer from Pakistan, building robust, production-ready applications with **Django** on the backend and **React/Next.js** on the frontend. I focus on **lean progress**, **clean architecture**, and **delivering real value** — not chasing perfection.<br/><br/>
@@ -6,8 +10,7 @@ I’m a self-taught full-stack web developer from Pakistan, building robust, pro
 
 - **Backend Development**  
   - RESTful APIs with **Django** & **Django REST Framework**  
-  - Complex SQL queries, performance optimization, authentication systems  
-  - Asynchronous tasks with Celery, Redis, and background workers
+  - performance optimization, authentication systems 
 
 - **Frontend Development**  
   - Interactive, SEO-optimized interfaces using **Next.js** & **React**  
@@ -15,8 +18,8 @@ I’m a self-taught full-stack web developer from Pakistan, building robust, pro
   - Image optimization, static generation (ISR), and SSR
 
 - **Full-Stack Applications**  
-  - Deployed on **Vercel**, **DigitalOcean**, **Railway**, or **Render**  
-  - Git-based CI/CD pipelines, Dockerized builds, Nginx, and custom domains  
+  - Deployed on **Vercel**, **DigitalOcean**, or **Render**  
+  - Nginx, and custom domains  
   - Version control, feature branching, clean commit history<br/><br/>
 
 
@@ -37,9 +40,9 @@ I’m a self-taught full-stack web developer from Pakistan, building robust, pro
 
 ### 📘 [IBlog Django](https://github.com/jamil-codes/IBlog-Django)
 A modular, beginner-friendly Django blog template  
-- Categories, Posts, Tags, Admin Dashboard  
+- Categories, Posts, Contact  
 - Markdown content, responsive UI  
-- Dockerized, GitHub Actions support<br/><br/>
+- Admin Dashboard<br/><br/>
 
 ## 🎯 Current Focus
 - ✅ Mastering advanced Django features (Signals, Middleware, Admin Customization)  
