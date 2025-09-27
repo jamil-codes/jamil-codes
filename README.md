@@ -39,22 +39,36 @@ I’m a self-taught full-stack web developer from Pakistan, building robust, pro
 ## 🔍 Key Projects
 
 ### 📘 [IBlog Django](https://github.com/jamil-codes/IBlog-Django)
-A modular, beginner-friendly Django blog template  
-- Categories, Posts, Contact  
-- Markdown content, responsive UI  
-- Admin Dashboard<br/><br/>
+
+A modular, beginner-friendly Django blog template
+
+* Categories, Posts, Contact
+* Markdown content, responsive UI
+* Admin Dashboard<br/><br/>
 
 ### 📗 [E-Commerce Django](https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe)
-A full-featured Django e-commerce site with Stripe integration  
-- Product catalog, shopping cart, checkout  
-- User authentication, order history  
-- Responsive design, payment gateway support<br/><br/>
+
+A full-featured Django e-commerce site with Stripe integration
+
+* Product catalog, shopping cart, checkout
+* User authentication, order history
+* Responsive design, payment gateway support<br/><br/>
 
 ### 📙 [BudgetWise Django](https://github.com/jamil-codes/BudgetWise-Django)
-A personal finance and budget management web app built with Django  
-- Track income, expenses, and savings goals  
-- Category-wise expense breakdowns  
-- User authentication and personalized dashboards<br/><br/>
+
+A personal finance and budget management web app built with Django
+
+* Track income, expenses, and savings goals
+* Category-wise expense breakdowns
+* User authentication and personalized dashboards<br/><br/>
+
+### 🎨 [Tonalize](https://github.com/jamil-codes/Tonalize)
+
+This very portfolio project — minimalist, music-themed, and SEO-ready.
+
+* Clean static site with fast performance
+* Project highlights with links
+* Responsive and accessible<br/><br/>
 
 ## 🎯 Current Focus
 - ✅ Mastering advanced Django features (Signals, Middleware, Admin Customization)  
@@ -75,3 +89,5 @@ A personal finance and budget management web app built with Django
 
 > _“Perfection is the enemy of progress. Build, learn, iterate, and ship.”_  
 > — **Jamil Codes**
+
+
