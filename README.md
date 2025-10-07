@@ -44,8 +44,7 @@ A **complete event management system** built with Django — enabling organizers
 * Stripe-powered payment integration  
 * Real-time ticket QR codes and check-ins  
 * Organizer dashboard, automated reservation expiry  
-* Contact form, dynamic homepage, and responsive UI  
-<br/>
+* Contact form, dynamic homepage, and responsive UI<br/>
 
 ### 📘 [IBlog Django](https://github.com/jamil-codes/IBlog-Django)
 
