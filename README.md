@@ -38,6 +38,15 @@ I’m a self-taught full-stack web developer from Pakistan, building robust, pro
 
 ## 🔍 Key Projects
 
+### 🎟️ [Eventify — Event Management Platform](https://github.com/jamil-codes/Eventify)
+A **complete event management system** built with Django — enabling organizers to create, manage, and sell tickets, while attendees can explore and check in seamlessly.
+
+* Stripe-powered payment integration  
+* Real-time ticket QR codes and check-ins  
+* Organizer dashboard, automated reservation expiry  
+* Contact form, dynamic homepage, and responsive UI  
+<br/>
+
 ### 📘 [IBlog Django](https://github.com/jamil-codes/IBlog-Django)
 
 A modular, beginner-friendly Django blog template
@@ -62,13 +71,6 @@ A personal finance and budget management web app built with Django
 * Category-wise expense breakdowns
 * User authentication and personalized dashboards<br/><br/>
 
-### 🎨 [Tonalize](https://github.com/jamil-codes/Tonalize)
-
-This very portfolio project — minimalist, music-themed, and SEO-ready.
-
-* Clean static site with fast performance
-* Project highlights with links
-* Responsive and accessible<br/><br/>
 
 ## 🎯 Current Focus
 - ✅ Mastering advanced Django features (Signals, Middleware, Admin Customization)  
