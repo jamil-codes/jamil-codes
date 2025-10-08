@@ -38,7 +38,7 @@ I’m a self-taught full-stack web developer from Pakistan, building robust, pro
 
 ## 🔍 Key Projects
 
-### 🎟️ [Eventify — Event Management Platform](https://github.com/jamil-codes/Eventify)
+### 🎟️ [Eventify — Event Management Platform](https://github.com/jamil-codes/Eventify-Djanog-Event-Management)
 A **complete event management system** built with Django — enabling organizers to create, manage, and sell tickets, while attendees can explore and check in seamlessly.
 
 * Stripe-powered payment integration  
