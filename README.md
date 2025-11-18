@@ -46,14 +46,6 @@ A **complete event management system** built with Django — enabling organizers
 * Organizer dashboard, automated reservation expiry  
 * Contact form, dynamic homepage, and responsive UI<br/>
 
-### 📘 [IBlog Django](https://github.com/jamil-codes/IBlog-Django)
-
-A modular, beginner-friendly Django blog template
-
-* Categories, Posts, Contact
-* Markdown content, responsive UI
-* Admin Dashboard<br/><br/>
-
 ### 📗 [E-Commerce Django](https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe)
 
 A full-featured Django e-commerce site with Stripe integration
@@ -69,6 +61,9 @@ A personal finance and budget management web app built with Django
 * Track income, expenses, and savings goals
 * Category-wise expense breakdowns
 * User authentication and personalized dashboards<br/><br/>
+
+### 🚨 [Django Admin Trap](https://github.com/jamil-codes/django-admin-trap)
+A **stateless fake Django admin login page** that acts as a security honeypot — compatible with Django 5.0+ and requires zero database operations. (PIP PACKAGE)
 
 
 ## 🎯 Current Focus
