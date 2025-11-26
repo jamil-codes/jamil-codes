@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="header.png" width="100%" alt="Header"/>
+  <img src="logo.svg" width="230px" alt="Header"/>
 </p>
+<br/>
 
 # 👋 Hi, I’m **Jamil Ahmed** — _Jamil Codes_
 
