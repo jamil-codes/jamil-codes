@@ -1,0 +1,59 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" >
+  <title>Jamil Codes Logo</title>
+  <desc>Modern logo for Jamil Codes, representing the balance between logic and aesthetics in full-stack web development</desc>
+  
+  <defs>
+    <linearGradient id="mainGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#7c3aed" />
+    </linearGradient>
+  </defs>
+  
+  
+  <!-- Central geometric structure representing code and precision -->
+  <g transform="translate(100, 100) scale(1.5)">
+    <!-- Diamond/base structure -->
+    <path d="M -30 0 L 0 -30 L 30 0 L 0 30 Z" 
+          fill="none" 
+          stroke="url(#mainGradient)" 
+          stroke-width="4"
+          stroke-linejoin="round"/>
+    
+    <!-- Central dot representing focus -->
+    <circle cx="0" cy="0" r="4" fill="url(#mainGradient)"/>
+    
+    <!-- Angular lines representing discipline and structure -->
+    <line x1="-20" y1="-20" x2="-40" y2="-40" 
+          stroke="url(#mainGradient)" 
+          stroke-width="3"
+          stroke-linecap="round"/>
+    
+    <line x1="20" y1="-20" x2="40" y2="-40" 
+          stroke="url(#mainGradient)" 
+          stroke-width="3"
+          stroke-linecap="round"/>
+    
+    <line x1="-20" y1="20" x2="-40" y2="40" 
+          stroke="url(#mainGradient)" 
+          stroke-width="3"
+          stroke-linecap="round"/>
+    
+    <line x1="20" y1="20" x2="40" y2="40" 
+          stroke="url(#mainGradient)" 
+          stroke-width="3"
+          stroke-linecap="round"/>
+    
+    <!-- Code brackets representation -->
+    <path d="M -50 0 Q -45 -15 -35 -15 Q -25 -15 -20 0" 
+          fill="none" 
+          stroke="url(#mainGradient)" 
+          stroke-width="2.5"
+          opacity="0.8"/>
+    
+    <path d="M 50 0 Q 45 15 35 15 Q 25 15 20 0" 
+          fill="none" 
+          stroke="url(#mainGradient)" 
+          stroke-width="2.5"
+          opacity="0.8"/>
+  </g>
+</svg>
