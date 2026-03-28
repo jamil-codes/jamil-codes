@@ -49,7 +49,7 @@ A **complete event management system** built with Django — enabling organizers
 - Organizer dashboard, automated reservation expiry
 - Contact form, dynamic homepage, and responsive UI<br/>
 
-### 📗 [E-Commerce Django](https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe)
+### [E-Commerce Django](https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe)
 
 A full-featured Django e-commerce site with Stripe integration
 
