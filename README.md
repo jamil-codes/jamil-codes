@@ -3,11 +3,11 @@
 </p>
 <br/>
 
-# 👋 Hi, I’m **Jamil Ahmed** — _Jamil Codes_
+# Hi, I’m **Jamil Ahmed** — _Jamil Codes_
 
 I’m a self-taught full-stack web developer from Pakistan, building robust, production-ready applications with **Django** on the backend and **React/Next.js** on the frontend. I focus on **lean progress**, **clean architecture**, and **delivering real value** — not chasing perfection.<br/><br/>
 
-## 🚀 What I Do
+## What I Do
 
 - **Backend Development**
 
@@ -25,7 +25,7 @@ I’m a self-taught full-stack web developer from Pakistan, building robust, pro
   - Nginx, and custom domains
   - Version control, feature branching, clean commit history<br/><br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer        | Tools & Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -38,9 +38,9 @@ I’m a self-taught full-stack web developer from Pakistan, building robust, pro
 
 <br/>
 
-## 🔍 Key Projects
+## Key Projects
 
-### 🎟️ [Eventify — Event Management Platform](https://github.com/jamil-codes/Eventify-Djanog-Event-Management)
+### [Eventify — Event Management Platform](https://github.com/jamil-codes/Eventify-Djanog-Event-Management)
 
 A **complete event management system** built with Django — enabling organizers to create, manage, and sell tickets, while attendees can explore and check in seamlessly.
 
@@ -57,7 +57,7 @@ A full-featured Django e-commerce site with Stripe integration
 - User authentication, order history
 - Responsive design, payment gateway support<br/><br/>
 
-### 📙 [BudgetWise Django](https://github.com/jamil-codes/BudgetWise-Django)
+### [BudgetWise Django](https://github.com/jamil-codes/BudgetWise-Django)
 
 A personal finance and budget management web app built with Django
 
@@ -69,7 +69,7 @@ A personal finance and budget management web app built with Django
 
 A **stateless fake Django admin login page** that acts as a security honeypot — compatible with Django 5.0+ and requires zero database operations. (PIP PACKAGE)
 
-## 🎯 Current Focus
+## Current Focus
 
 - ✅ Mastering advanced Django features (Signals, Middleware, Admin Customization)
 - ✅ Mastering **Next.js**
@@ -77,12 +77,12 @@ A **stateless fake Django admin login page** that acts as a security honeypot �
 - ✅ Leveling up in DevOps (Docker, CI/CD)
 - ✅ Writing clean, scalable, production-grade code<br/><br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamil-codes&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)
 <br/>
 
-## 🌐 Socials:
+## Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamilcodes/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@jamilcodes.com?subject=Hello%20Jamil&body=I%20saw%20your%20GitHub%20profile...)
 <br/><br/>
