@@ -183,11 +183,18 @@ Product catalog · cart · Stripe checkout · order history · auth. Production-
 
 ---
 
+
+## 📊 GitHub Stats
+[![](https://nirzak-streak-stats.vercel.app/?user=jamil-codes&theme=radical&hide_border=false)](#)
+<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamil-codes&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)
+<br/>
+
 ## 🤝 Let's Build Something
 
 <div align="center">
 
-> I'm **open for freelance work** — backends, APIs, full-stack builds, email infra.
+> _“Perfection is the enemy of progress. Build, learn, iterate, and ship.”_  
 > Got a project? Let's talk.
 
 <br/>
@@ -197,6 +204,8 @@ Product catalog · cart · Stripe checkout · order history · auth. Production-
 [![SendFleet](https://img.shields.io/badge/📡_Try_SendFleet_API-sendfleet.net-7c3aed?style=for-the-badge)](https://sendfleet.net)
 
 <br/><br/>
+
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1f6e,50:1e1b4b,100:0d1117&height=100&section=footer" width="100%"/>
 
