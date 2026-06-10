@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=818CF8&center=true&vCenter=true&width=640&height=40&lines=Building+SendFleet+%E2%80%94+Transactional+Email+API;Django+%2B+Next.js+Full-Stack+Developer;Published+on+PyPI+%7C+django-admin-trap;Open+for+Freelance+%E2%80%94+Let%27s+build+something.)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=818CF8&center=true&vCenter=true&width=640&height=40&lines=Built+SendFleet+%E2%80%94+Transactional+Email+API;Django+%2B+Next.js+Full-Stack+Developer;Published+on+PyPI+%7C+django-admin-trap;Open+for+Freelance+%E2%80%94+Let%27s+build+something.)](https://readme-typing-svg.demolab.com)
 
 <br/>
 
